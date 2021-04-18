@@ -1,9 +1,7 @@
 <h1 align="center">Compiler</h1>
 This is an online executor which is built around the <a href="https://github.com/engineer-man/piston" target="_blank">Piston API</a>. <a href="" target="_blank">Live Demo</a>
 
-<p align="center">
-    <img src="./images/preview.png" width="100vh" />
-</p>
+<img src="./images/preview.png" width="100%"></img>
 
 ## Getting Started
 
