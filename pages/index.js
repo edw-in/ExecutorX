@@ -92,6 +92,7 @@ export default function Home() {
                   <select
                     id="name"
                     className="form-select w-100 mt-2 py-3 px-3 rounded-lg bg-gray-800 border border-gray-700 text-gray-400 font-semibold focus:border-indigo-500 focus:outline-none"
+                    required
                   >
                     {supportedLangs.map(function (item) {
                       return <option key={item}>{item}</option>;
@@ -111,6 +112,7 @@ export default function Home() {
                     cols="40"
                     placeholder="Code"
                     className="form-textarea w-100 mt-2 py-3 px-3 rounded-lg bg-gray-800 border border-gray-700 text-gray-400 font-semibold focus:border-indigo-500 focus:outline-none"
+                    required
                   ></textarea>
                 </div>
 
