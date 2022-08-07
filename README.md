@@ -9,7 +9,7 @@ This is an online executor which is built around the <a href="https://github.com
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/edw-in/Compiler
+git clone https://github.com/edw-in/ExecutorX
 ```
 
 2. Install the dependancies
