@@ -72,7 +72,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Compiler</title>
+        <title>ExecutorX</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
