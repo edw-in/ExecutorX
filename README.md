@@ -1,6 +1,6 @@
 <h1 align="center">ExecutorX</h1>
 <p align="center">
-This is an online executor which is built around the <a href="https://github.com/engineer-man/piston" target="_blank">Piston API</a>. <a href="https://compiler.edwinreji.tech/" target="_blank">Live Demo</a></p>
+This is an online executor which is built around the <a href="https://github.com/engineer-man/piston" target="_blank">Piston API</a>. <a href="https://executor.edwinreji.me/" target="_blank">Live Demo</a></p>
 
 <img src="./images/preview.png" width="100%"></img>
 
